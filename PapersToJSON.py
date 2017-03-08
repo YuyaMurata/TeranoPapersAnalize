@@ -1,13 +1,16 @@
 import re
-from bs4 import BeautifulSoup
-from paperobj import PaperObj
 
+import pandas as pd
+from bs4 import BeautifulSoup
+
+from paperobj import PaperObj
 
 def main():
     #html
     f = open("papers.html", "r")
     soup = BeautifulSoup(f, 'html.parser')
 
+    df = pd.DataFrame(columns=['author', 'title', 'info', 'year', 'tag'])
     i = 0
     for line in soup.find_all("li"):
         str = line.string
@@ -27,21 +30,28 @@ def main():
         title = str[0:str.find('.')]
         str = str.replace(title + ".", '')
         title = title.replace('"','').strip()
-        r = re.compile('\s\s+')
+        r = re.compile('\s\s*')
         title = r.sub(' ', title)
-        print(title)
+        #print(title)
 
         info = str[0:str.rfind(',')]
         str = str.replace(info+",", '')
+        info = r.sub(' ', info)
+        #print(info)
 
         year = str
         r = re.findall('(\d{4})', year)
         year = r[0]
-        print(year)
+        #print(year)
 
         obj = PaperObj(title, authors, info, year)
+        se = pd.Series([authors, title, info, year, ""], index=['author', 'title', 'info', 'year', 'tag'])
+        df = df.append(se,  ignore_index=True)
         #print("%d %s" % (i, obj.string()))
         i = i+1
+
+    #Create CSV
+    df.to_csv('trn_papers.csv')
 
 if __name__ == '__main__':
     main()

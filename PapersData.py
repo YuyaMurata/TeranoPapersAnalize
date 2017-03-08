@@ -14,6 +14,7 @@ def createNetworkData(driver, p1, p2, file):
 
     paperList = hd_soup1.find_all("li") + hd_soup2.find_all("li")
 
+    print(len(paperList))
     print(paperList, file=file)
 
 def main():
