@@ -11,8 +11,8 @@ def main():
     i = 0
     for line in soup.find_all("li"):
         str = line.string
-        str = str.replace('\n', '')
-        str = str.replace('\r', '')
+        str = str.replace('\n', ' ')
+        str = str.replace('\r', ' ')
         str = str.replace('：', ':')
         str = str.replace('，', ',')
         str = str.replace('．', '.')
@@ -25,12 +25,7 @@ def main():
 
         #title抽出　整形
         title = str[0:str.find('.')]
-        print(title)
-        if title.find(',') > -1:
-            title = str[0:str.rfind(',')]
-            str = str.replace(title + ".", '')
-        else:
-            str = str.replace(title + ",", '')
+        str = str.replace(title + ".", '')
         title = title.replace('"','').strip()
         r = re.compile('\s\s+')
         title = r.sub(' ', title)
@@ -42,7 +37,7 @@ def main():
         year = str
         r = re.findall('(\d{4})', year)
         year = r[0]
-        #print(year)
+        print(year)
 
         obj = PaperObj(title, authors, info, year)
         #print("%d %s" % (i, obj.string()))
