@@ -1,5 +1,7 @@
+import re
 from bs4 import BeautifulSoup
 from paperobj import PaperObj
+
 
 def main():
     #html
@@ -16,26 +18,35 @@ def main():
         str = str.replace('．', '.')
 
         authors = str[0:str.find(':')]
-        str = str.replace(authors+":", '')
+        str = str.replace(authors + ":", '')
+        r = re.compile('\s+')
+        authors = r.sub('', authors)
         #print(authors)
 
-        title = str[0:str.find(',')]
-        if title.find('.') > -1:
-            title = str[0:str.find('.')]
+        #title抽出　整形
+        title = str[0:str.find('.')]
+        print(title)
+        if title.find(',') > -1:
+            title = str[0:str.rfind(',')]
             str = str.replace(title + ".", '')
         else:
             str = str.replace(title + ",", '')
-        #print(title)
+        title = title.replace('"','').strip()
+        r = re.compile('\s\s+')
+        title = r.sub(' ', title)
+        print(title)
 
         info = str[0:str.rfind(',')]
         str = str.replace(info+",", '')
 
         year = str
+        r = re.findall('(\d{4})', year)
+        year = r[0]
         #print(year)
 
-        obj = PaperObj(title.strip(), authors.strip(), info.strip(), year.strip())
-        #print("%d %s" % (i,obj.string()))
-        #i = i+1
+        obj = PaperObj(title, authors, info, year)
+        #print("%d %s" % (i, obj.string()))
+        i = i+1
 
 if __name__ == '__main__':
     main()
