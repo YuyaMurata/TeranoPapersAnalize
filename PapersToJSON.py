@@ -1,4 +1,5 @@
 import re
+import json
 
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -7,10 +8,12 @@ from paperobj import PaperObj
 
 def main():
     #html
-    f = open("papers.html", "r")
+    f = open("trn_papers.html", "r")
     soup = BeautifulSoup(f, 'html.parser')
 
-    df = pd.DataFrame(columns=['author', 'title', 'info', 'year', 'tag'])
+    #CSV
+    #df = pd.DataFrame(columns=['author', 'title', 'info', 'year', 'tag'])
+    list = []
     i = 0
     for line in soup.find_all("li"):
         str = line.string
@@ -44,14 +47,28 @@ def main():
         year = r[0]
         #print(year)
 
-        obj = PaperObj(title, authors, info, year)
-        se = pd.Series([authors, title, info, year, ""], index=['author', 'title', 'info', 'year', 'tag'])
-        df = df.append(se,  ignore_index=True)
+        obj = PaperObj(authors, title, info, year)
+        list.append(obj.toDictionary())
+
+        print(obj.toDictionary())
+
+        #CSV
+        #se = pd.Series([authors, title, info, year, ""], index=['author', 'title', 'info', 'year', 'tag'])
+        #df = df.append(se,  ignore_index=True)
+
         #print("%d %s" % (i, obj.string()))
         i = i+1
 
     #Create CSV
-    df.to_csv('trn_papers.csv')
+    #print(df)
+    #df.to_csv('trn_papers.csv')
+
+    #CreateJSON
+    #print(list)
+    f = open('trn_papers.json', 'w')
+    json.dump(list, f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+    f.close()
+
 
 if __name__ == '__main__':
     main()
