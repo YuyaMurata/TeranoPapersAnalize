@@ -17,14 +17,27 @@ conv = kakasi.getConverter()
 #Pattern
 r = re.compile(r'^[a-zA-Z&]')
 brank = re.compile(r'\(.+?\)$')
+period = re.compile(r'\.$')
 
 nameDict = {}
 
 for data in jsonData:
-    authors = data['author'].split(",")
+    str = data['author']
+    authors = []
+
+    if ' and ' in str:
+        str = str.replace(' and ', ', ')
+
+    if '.,' in str:
+        authors = str.split(".,")
+    else :
+        if period.match(str):
+            authors = [str]
+        else :
+            authors = str.split(",")
     for author in authors:
         author = brank.sub('', author).strip()
-        if not r.match(author):
+        if r.match(author):
             orig = author
             roma = conv.do(author)
             print(orig)

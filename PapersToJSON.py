@@ -26,7 +26,7 @@ def main():
         authors = str[0:str.find(':')]
         str = str.replace(authors + ":", '')
         r = re.compile('\s+')
-        authors = r.sub('', authors)
+        authors = r.sub(' ', authors)
         #print(authors)
 
         #title抽出　整形
