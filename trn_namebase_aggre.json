@@ -26,7 +26,8 @@
         "Vˆä–L"
     ],
     "arbeel.p.chen": [
-        "Arbee L. P. Chen"
+        "Arbee L. P. Chen",
+        "Arbee L. P. Chen (eds.)"
     ],
     "ayahikoniimi": [
         "Ayahiko Niimi"
@@ -69,35 +70,31 @@
         "Cindy Yoshiko Shirata"
     ],
     "daikokutakafumi": [
+    	"‘å•F•¶",
         "‘å• F•¶",
-        "‘å•F•¶",
         "Daikoku, T"
     ],
     "deguchi,h": [
+    	"oŒûO",
         "Deguchi, H",
         "Deguchi, H.",
         "oŒû",
+        "oŒû(‘¼)",
         "H. Degushi",
-        "oŒûO",
         "oŒû O",
         "Hiroshi Deguchi",
         "H. Deguchi",
-        "H.Deguchi"
-    ],
-    "e.koshishiba": [
-        "E. Koshishiba"
+        "H.Deguchi",
+        "Deguchi, H. (Eds.)"
     ],
     "egusar": [
+    	"]‘—É•½",
         "Egusa, R",
         "Ryohei Egusa",
-        "]‘ —É•½",
-        "]‘—É•½"
+        "]‘ —É•½"
     ],
     "eiichirotazaki": [
         "Eiichiro Tazaki"
-    ],
-    "einoshinsuzuki": [
-        "Einoshin Suzuki"
     ],
     "endoukaoru": [
         "‰““¡ŒO"
@@ -106,7 +103,8 @@
         "‰z…db"
     ],
     "etsushibaeri": [
-        "‰zÄŠG—¢"
+        "‰zÄŠG—¢",
+        "E. Koshishiba"
     ],
     "koshiyamaosamu": [
         "‰zRC",
@@ -129,11 +127,13 @@
         "•Ÿ–{‹±"
     ],
     "fumiakisato": [
-        "Fumiaki SATO"
+    	"²“¡jÍ",
+        "Fumiaki SATO",
+        "Sato, F"
     ],
-    "funenamahideo": [
+    "funaoiahideo": [
+    	"M¶“úo’j",
         "M¶ “úo’j",
-        "M¶“úo’j",
         "M¶“úo•v",
         "Funaoi, H"
     ],
@@ -141,11 +141,13 @@
         "Geun Chol Moon"
     ],
     "gotoukeiichi": [
+    	"ŒÜ“‡Œ\ˆê",
         "ŒÜ“‡ Œ\ˆê",
-        "ŒÜ“‡Œ\ˆê",
         "Keiichi Goshima"
     ],
-    "h.hatakama": [
+    "hatakamahiroshi": [
+    	"”¦Š™”",
+        "”¦Š™ ”",
         "H. Hatakama",
         "Hatakama, H"
     ],
@@ -153,45 +155,45 @@
         "H.Lee"
     ],
     "h.matsui": [
+    	"¼ˆäŒ[”V",
+        "¼ˆä Œ[”V",
         "H.Matsui",
-        "H. Matsui"
+        "H. Matsui",
+        "Hiroyuki Matsui"
     ],
-    "h.sato": [
-        "H. Sato",
-        "H.Sato"
-    ],
-    "h.shirai": [
+    "shiraihiroaki": [
+    	"”’ˆäG–¾",
+    	"Hiroaki Shirai",
         "H. Shirai",
-        "”’ˆä"
-    ],
-    "h.suzuki": [
-        "H. Suzuki"
+        "”’ˆä",
+        "SHIRAI, H"
     ],
     "hamadachokumare": [
         "à_“c’¼Šó"
-    ],
-    "hamed": [
-        "Hamed"
     ],
     "hamedkhandan": [
         "Hamed Khandan",
         "Khan,M. B",
         "Muhammad Badruddin Khan",
-        "Khan Muhammad Badruddin"
+        "Khan Muhammad Badruddin",
+        "Hamed"
     ],
     "haradayasushisuke": [
-        "Œ´“c ‘×•ã",
-        "Œ´“c‘×•ã"
+    	"Œ´“c‘×•ã",
+        "Œ´“c ‘×•ã"
     ],
     "haradayasushi":[
-    	"Œ´“c‘×"
+    	"Œ´“c‘×",
+    	"Yassuhi Harada",
+        "Yasushi HARADA"
     ],
     "hashimotohirofumi": [
-        "‹´–{”•¶"
+        "‹´–{”•¶",
+        "Hirobumi Hashimoto"
     ],
     "hashimotoshigeharu": [
-        "‹´–{ d¡",
         "‹´–{d¡",
+        "‹´–{ d¡",
         "S. Hashimoto",
         "S.Hashimoto"
     ],
@@ -203,11 +205,8 @@
         "Hasnat Elias Mohammad Abu",
          "ƒnƒXƒiƒbƒg E. M. ƒAƒu"
     ],
-    "hatakamahiroshi": [
-        "”¦Š™”",
-        "”¦Š™ ”"
-    ],
     "hatakeyamasuketeru": [
+    	"”©R—S‹P",
         "”©R —S‹P"
     ],
     "hayashihiroshi": [
@@ -225,14 +224,9 @@
     "hiragayuzuru": [
         "•½‰ê÷"
     ],
-    "hiroakishirai": [
-        "Hiroaki Shirai"
-    ],
-    "hirobumihashimoto": [
-        "Hirobumi Hashimoto"
-    ],
     "hirookayasuo": [
-        "L‰ªN—Y"
+        "L‰ªN—Y",
+        "Yasuo Hirooka"
     ],
     "hiroshihatakama": [
         "Hiroshi Hatakama"
@@ -240,26 +234,11 @@
     "hiroshimatsuzawa": [
         "Hiroshi Matsuzawa"
     ],
-    "hiroshimotoda": [
-        "Hiroshi Motoda"
-    ],
-    "hiroshisato": [
-        "Hiroshi Sato"
-    ],
-    "hiroyukimatsui": [
-        "Hiroyuki Matsui"
-    ],
-    "hisakawamasashi": [
-        "‹vì‰ëu"
-    ],
-    "hisatoshisuzuki": [
-        "Hisatoshi Suzuki"
-    ],
     "hishiyamareiko": [
         "•HR—æq",
         "Reiko Hishiyama"
     ],
-    "hon'idashin'ichi": [
+    "honidashinichi": [
         "–{ˆÊ“c^ˆê"
     ],
     "horiirisa": [
@@ -271,8 +250,7 @@
         "K. Hori"
     ],
     "hoshinahiroaki": [
-        "•Û‰ÈO–¾",
-        "”’ˆäG–¾"
+        "•Û‰ÈO–¾"
     ],
     "hottadaisuke": [
         "–x“c‘å•ã",
@@ -297,10 +275,11 @@
     "ikami,k": [
         "Ikami, K"
     ],
-    "inagakiseisatoshi": [
+    "inagakiseishigenori": [
         "ˆîŠ_¬“N",
         "ˆîŠ_ ¬“N",
-        "Inagaki, S."
+        "Inagaki, S.",
+        "Shigenori Inagaki"
     ],
     "inagakishinkichi": [
         "ˆîŠ_L‹g"
@@ -309,8 +288,9 @@
         "Inai, R"
     ],
     "inedamatsurigotonori": [
+        "ˆî“c­‘¥",
         "ˆî“c ­‘¥",
-        "ˆî“c­‘¥"
+        "Masanori Inada"
     ],
     "isaoyagi": [
         "Isao Yagi"
@@ -320,8 +300,7 @@
     ],
     "ishikawayasushikokorozashi": [
         "Îì‘×u",
-        "Yasushi Ishikawa",
-        "ÂŒ´–õu"
+        "Yasushi Ishikawa"
     ],
     "ishinoyouko": [
         "Î–ì—mq",
@@ -358,21 +337,12 @@
     "k.himura": [
         "K. Himura"
     ],
-    "k.shimohara": [
-        "K. Shimohara",
-        "K.Shimohara"
-    ],
-    "k.takadama": [
-        "K. Takadama",
-        "Takadama",
-        "K.Takadama"
-    ],
     "kakunoyasuou": [
         "Šp”W‹±‰›",
         "Yasuo Kadono",
         "Y. Kadono"
     ],
-    "kamisawaatsushikei": [
+    "kanzawaatsushikei": [
         "_àV“ÄŒ["
     ],
     "kamoshidaakira": [
@@ -389,11 +359,10 @@
         "ƒLƒƒƒTƒŠ[ƒ“ M. ƒJ[ƒŠ["
     ],
     "katsumatayuuji": [
+        "Ÿ–”—E¡",
         "Ÿ–” —E¡",
-        "Ÿ–”—E¡"
-    ],
-    "katsunorishimohara": [
-        "Katsunori Shimohara"
+        "Yuji Katsumata",
+        "Y.Katsumata"
     ],
     "kawai(tagami)miyuki": [
         "‰Í‡(“cã)[á"
@@ -401,11 +370,13 @@
     "kazuhisataniguchi": [
         "Kazuhisa Taniguchi"
     ],
-    "kazutoshihanzawa": [
-        "Kazutoshi Hanzawa"
-    ],
     "keikitakadama": [
+    	"‚‹ÊŒ\÷",
         "Keiki Takadama",
+        "K. Takadama",
+        "Takadama",
+        "K.Takadama",
+        "K. Takadama (eds.)"
     ],
     "keikokurahashi": [
         "Keiko Kurahashi"
@@ -413,19 +384,17 @@
     "keitamuratsu": [
         "Keita Muratsu"
     ],
-    "kenichinaitoh": [
-        "Kenichi Naitoh"
-    ],
     "kenichiyoshida": [
         "Kenichi Yoshida"
     ],
     "kenjousachichoku": [
-        "Œ©éK’¼"
-        "Kenjo, Y"
+        "Œ©éK’¼",
+        "Kenjo, Y",
+        "Yukinao Kenjo"
     ],
-    "kentatoshiyuki": [
-        "Œ““c •q”V",
+    "kendatoshiyuki": [
         "Œ““c•q”V",
+        "Œ““c •q”V",
         "Kaneda, T",
         "T.Kaneda",
         "T. Kaneda"
@@ -433,16 +402,17 @@
     "kijimakyouichi": [
         "–Ø“ˆ‹±ˆê",
         "Kijima, K.",
+        "Kijima, K. (eds.)",
         "–Ø“ˆ"
     ],
     "kikuchitakamasa": [
+        "‹e’n„³",
         "‹e’n „³",
-        "‹e’n„³"
         "Takamasa Kikuchi"
     ],
     "kikutatsuyoshi": [
-        "‹e“c „",
         "‹e“c„",
+        "‹e“c „",
         "Go Kikuta"
     ],
     "kimurakouhei": [
@@ -472,16 +442,11 @@
         "–k‘º‘×•F"
     ],
     "kitazawamasaki": [
-        "–kàV ³÷",
         "–kàV³÷",
+        "–kàV ³÷",
         "Masaki Kitazawa",
         "Masaki KITAZAWA",
-        "Kitazawa, M",
-    ],
-    "kobayashi,m": [
-        "Kobayashi, M,",
-        "M.Kobayashi",
-        "M. Kobayashi"
+        "Kitazawa, M"
     ],
     "kobayashichishi": [
         "¬—Ñ’m–¤",
@@ -489,12 +454,17 @@
         "Tomomi Kobayashi"
     ],
     "kobayashimakoto": [
-        "¬—Ñ ^",
-        "¬—Ñ^"
+        "¬—Ñ^",
+        "¬—Ñ ^"
     ],
     "kobayashimasato": [
         "¬—Ñ³l",
-        "¬—Ñ ³l"
+        "¬—Ñ ³l",
+        "Masato Kobayashi",
+        "Masato KOBAYASHI",
+        "Kobayashi, M,",
+        "M.Kobayashi",
+        "M. Kobayashi"
     ],
     "kobayashishigenobu": [
         "¬—ÑdM",
@@ -510,20 +480,17 @@
     "kounohitoshi": [
         "‰Í–ìmu"
     ],
-    "koyama,y": [
-        "Koyama, Y",
-        "Y.Koyama",
-        "Y. Koyama"
-    ],
     "kudo,r": [
-        "Kudo, R"
+        "Kudo, R",
+        "R.Kudo"
     ],
     "kugawa,m": [
+    	"‹vì‰ëu",
         "Kugawa, M"
     ],
     "kuniuemakotoshou": [
-        "š ã ^Í",
         "š ã^Í",
+        "š ã ^Í",
         "‘ã ^Í",
         "Masaaki Kunigami",
         "Masaaki Kunigami",
@@ -540,6 +507,9 @@
     "kurahashifushiya": [
         "‘q‹´ß–ç",
         "‘q‹´ ß–ç",
+        "Setsuya Kurahashi",
+        "Setsuya KURAHASHI",
+        "Setsuya Kuraishi",
         "Kurahashi, S",
         ", Kurahashi, S.",
         "S.Kurahashi",
@@ -555,15 +525,16 @@
         "•“cGq"
     ],
     "kuroseosuta": [
-        "•£ —Y‘¾",
-        "•£—Y‘¾"
+        "•£—Y‘¾",
+        "•£ —Y‘¾"
     ],
     "kurumatanikouichi": [
-        "Ô’J _ˆê",
         "Ô’J_ˆê",
+        "Ô’J _ˆê",
         "K.Kurumatani",
         "K. Kurumarani",
-        "K. Kurumatani"
+        "K. Kurumatani",
+        "K.Kurumatani (eds.)"
     ],
     "kusunokifusako": [
         "“í–[q",
@@ -583,25 +554,11 @@
     "maksimtsvetovat": [
         "Maksim Tsvetovat"
     ],
-    "masahirotoriyama": [
-        "Masahiro Toriyama"
-    ],
-    "masanoriinada": [
-        "Masanori Inada",
-        "Masori Inada"
-    ],
     "masaruyokokawa": [
         "Masaru Yokokawa"
     ],
-    "masatokobayashi": [
-        "Masato Kobayashi",
-        "Masato KOBAYASHI"
-    ],
     "masayukikessoku": [
         "Masayuki Kessoku"
-    ],
-    "masayukinumao": [
-        "Masayuki Numao"
     ],
     "masudachiakira": [
         "‘“c’mº",
@@ -649,11 +606,8 @@
     "minamishio": [
         "“ì’ª",
         "“ì ’ª",
-        U. Minami",
+        "U. Minami",
         "Minami, U."
-    ],
-    "minaryoke": [
-        "Mina Ryoke"
     ],
     "minetsunenori": [
         "•õPŒ›"
@@ -672,8 +626,9 @@
         "Mohsen Jafari Songhori"
     ],
     "morikawaakemi": [
+    	"Xì–¾”ü",
         "Xì –¾”ü",
-        "Akemi Morikawa",
+        "Akemi Morikawa"
     ],
     "morinaoki": [
         "X’¼÷",
@@ -684,14 +639,17 @@
         "T. Mori"
     ],
     "motodahiroshi": [
+        "Œ³“c_",
         "Œ³“c _",
-        "Œ³“c_"
+        "Hiroshi Motoda"
     ],
     "motonaritanabu": [
         "Motonari Tanabu"
     ],
     "mukaidaimakoto": [
-        "Œüˆä ‘å½"
+        "Œüˆä‘å½",
+        "Œüˆä ‘å½",
+        "Taisei Mukai"
     ],
     "murakamieiji": [
         "‘ºã‰p¡",
@@ -703,12 +661,12 @@
         "E.Murakami"
     ],
     "murakamiyoutaira": [
-    	"‘ºã",
-        "‘ºã—z•½"
+        "‘ºã—z•½",
+    	"‘ºã"
     ],
     "muratayuuya": [
-        "‘º“c —I–ç",
         "‘º“c—I–ç",
+        "‘º“c —I–ç",
         "Yuya Murata"
     ],
     "muro,z.": [
@@ -729,8 +687,9 @@
     "nachang": [
         "Na Chang"
     ],
-    "naitouken'ichi": [
-        "“à“¡ Œ«ˆê"
+    "naitoukenichi": [
+        "“à“¡ Œ«ˆê",
+        "Kenichi Naitoh"
     ],
     "nakagawahiroshi": [
         "’†ì—Tu"
@@ -739,9 +698,12 @@
         "’†ì—Ti"
     ],
     "nakajimayoshihiro": [
-        "’†“‡‹`—T"
+        "’†“‡‹`—T",
+        "Yasuhiro Nakajima",
+        "Yoshihiro Nakajima"
     ],
     "nakamorigiteru": [
+    	"’†X‹`‹P",
         "’†X ‹`‹P",
         "Yoshiteru Nakamori"
     ],
@@ -750,8 +712,8 @@
         "Nakamura, H"
     ],
     "nakanokenji": [
-        "’†–ì Œ’Ÿ",
         "’†–ìŒ’Ÿ",
+        "’†–ì Œ’Ÿ",
         "Kenji Nakano",
         "Nakano, K"
     ],
@@ -760,22 +722,25 @@
     ],
     "nakaotoshiyuki": [
         "’†”örs",
+        "Toshiyuki Nakao",
         "Nakao, T"
     ],
     "nakaseisao": [
-        "’†£ ŒM",
         "’†£ŒM",
+        "’†£ ŒM",
         "Nakase, I"
     ],
-    "nakasugashin'ichi": [
-        "’†{‰ê^ˆê"
+    "nakasukashinichi": [
+        "’†{‰ê^ˆê",
+        "S.Nakasuka",
+        "S. Nakasuka"
     ],
     "namatame,m": [
+        "¶“c–Ú”ü‹I",
         "Namatame, M",
         "Miki Namatame",
         "Miki NAMATAME",
         "¶“c–Ú ”ü‹I",
-        "¶“c–Ú”ü‹I",
         "M. Namatame"
     ],
     "namatame,a": [
@@ -792,7 +757,9 @@
         "Ning Zhong"
     ],
     "nishidariakira": [
-        "¼“c—˜N"
+        "¼“c—˜N",
+        "Rio NISHIDA",
+        "Nishida, R"
     ],
     "nishio,c": [
         "NISHIO, C"
@@ -801,7 +768,8 @@
         "–ì‘ºÍ"
     ],
     "numaomasayuki": [
-        "À”ö³s"
+        "À”ö³s",
+        "Masayuki Numao"
     ],
     "ogawamikako": [
         "¬ì”üq",
@@ -814,9 +782,6 @@
     ],
     "ogura,n": [
         "OGURA, N"
-    ],
-    "ohdairat": [
-        "Ohdaira, T"
     ],
     "okadaisami": [
         "‰ª“c—E"
@@ -849,10 +814,12 @@
     ],
     "oohiratetsushi": [
         "‘å•½“Nj",
-        "Tetsushi Ohdaira"
+        "Tetsushi Ohdaira",
+        "Ohdaira, T"
     ],
-    "ookumahiroshiya": [
-        "‘åŒF—TÆ"
+    "ookumayuya": [
+        "‘åŒF—TÆ",
+        "Yuya Ohkuma"
     ],
     "oonofumio": [
         "‘å–ì•¶•v",
@@ -867,36 +834,25 @@
     "ootatoshisumi": [
         "‘¾“c•qŸ"
     ],
-    "ootsukaosukichi": [
-        "‘å’Ë—Y‹g"
-    ],
     "oritaakiko": [
-        "Ü“c –¾q",
         "Ü“c–¾q",
+        "Ü“c –¾q",
         "Akiko Orita",
         "Akiko ORITA"
     ],
-    "otsuka,y": [
-        "Otsuka, Y"
-    ],
-    "oyamatomosuke": [
-        "¬R —F‰î",
+    "koyamatomosuke": [
         "¬R—F‰î",
-        "¬R—F ‰î"
+        "¬R —F‰î",
+        "¬R—F ‰î",
+        "Koyama, Y",
+        "Y.Koyama",
+        "Y. Koyama"
     ],
     "prasannarajapakse": [
         "Prasanna Rajapakse"
     ],
     "ray-shinerun": [
         "Ray-Shine Run"
-    ],
-    "rionishida": [
-        "Rio NISHIDA",
-        "Nishida, R"
-    ],
-    "rkudo": [
-        "R.Kudo",
-        "Kudo, R"
     ],
     "robertaxtell": [
         "Robert Axtell"
@@ -905,42 +861,33 @@
         "Rong-Jian Chen"
     ],
     "ryouiemina": [
-        "—Ì‰Æ”ü“Ş"
-    ],
-    "s.nakasuka": [
-        "S.Nakasuka",
-        "S. Nakasuka"
-    ],
-    "s.tsumoto": [
-        "S. Tsumoto"
-    ],
-    "s.yamadera": [
-        "S. Yamadera",
-        "Yamadera, S"
+        "—Ì‰Æ”ü“Ş",
+        "Mina Ryoke"
     ],
     "sachishimaakio": [
-        "K“‡ –¾’j",
-        "h“‡º’j"
+        "h“‡º’j",
+        "K“‡ –¾’j"
     ],
     "sagaishigeo": [
-        "²‰êˆäd—Y"
+        "²‰êˆäd—Y",
+        "S. Sagai"
     ],
     "saitoukazumi": [
-        "Ä“¡ ˜a–¤"
-    ],
-    "sakaheibunhiroshi": [
-        "â•½•¶”"
+        "Ä“¡˜a–¤",
+        "Ä“¡ ˜a–¤",
+        "Satoh, K"
     ],
     "sakatairafumihiro": [
         "â•½ •¶”",
         "Fumihiro Sakahira"
     ],
     "sakatakenyou": [
-        "â“c Œ°—f",
         "â“cŒ°—f",
+        "â“c Œ°—f",
         "Akinobu Sakata"
     ],
     "sameshimashigeruminoru": [
+        "L“ˆ–Î–«",
         "L“ˆ –Î–«"
     ],
     "sanoshinri": [
@@ -951,30 +898,18 @@
         "Yasuhiro Sasaki",
         "Yoshihiro Sasaki"
     ],
-    "satof": [
-        "Sato, F"
-    ],
-    "satohk": [
-        "Satoh, K"
-    ],
     "satoruoikawa": [
         "Satoru Oikawa"
     ],
     "satorutokuhisa": [
         "Satoru Tokuhisa"
     ],
-    "satoruyamadera": [
-        "Satoru Yamadera",
-        "Satoru YAMADERA"
-    ],
     "satouhiroshi": [
         "²“¡_",
-        "¼ˆäŒ[”V",
-        "¼ˆä Œ[”V",
-        "²“¡ _"
-    ],
-    "satoushishou": [
-        "²“¡jÍ"
+        "²“¡ _",
+        "Hiroshi Sato",
+        "H. Sato",
+        "H.Sato"
     ],
     "satoutetsuya": [
         "²“¡“N–ç"
@@ -988,20 +923,12 @@
     "setsuoohsuga": [
         "Setsuo Ohsuga"
     ],
-    "setsuyakurahashi": [
-        "Setsuya Kurahashi",
-        "Setsuya KURAHASHI",
-        "Setsuya Kuraishi"
-    ],
     "shi-jinnhorng": [
         "Shi-Jinn Horng"
     ],
-    "shigenoriinagaki": [
-        "Shigenori Inagaki"
-    ],
     "shimodairatoshikazu": [
-        "‰º•½ —˜˜a",
         "‰º•½—˜˜a",
+        "‰º•½ —˜˜a",
         "Toshikazu Shimodaira"
     ],
     "shinnosukehosonuma": [
@@ -1011,8 +938,12 @@
         "Â“c—Lj",
         "Yuji Shinoda"
     ],
-    "shinsawawatoshi": [
-        "YàV˜a•q"
+    "shinoharaayusushi": [
+    	"ÂŒ´–õu"
+    ],
+    "hanzawawatoshi": [
+        "YàV˜a•q",
+        "Kazutoshi Hanzawa"
     ],
     "shinsukesugaya": [
         "Shinsuke Sugaya"
@@ -1025,17 +956,14 @@
         "Y.Shinozawa"
     ],
     "shiozawayoshinori": [
-        "‰–‘ò —R“T",
         "‰–‘ò—R“T",
+        "‰–‘ò —R“T",
         "Y.Shiozawa",
-        "Y. Shiozawa"
-    ],
-    "shirai,h": [
-        "SHIRAI, H"
+        "Y. Shiozawa",
+        "Yoshinori Shiozawa"
     ],
     "shirakawatakahisa": [
-        "”’ì‹M‹v",
-        "ÎìF"
+        "”’ì‹M‹v"
     ],
     "shirakitsuneo": [
         "”’–ØP—Y"
@@ -1043,23 +971,27 @@
     "shiroishitetsuya": [
         "”’Î “N–ç"
     ],
-    "shitaharakachinori": [
-        "‰ºŒ´ŸŒ›"
+    "shitaharakatsunori": [
+        "‰ºŒ´ŸŒ›",
+        "Katsunori Shimohara",
+        "K. Shimohara",
+        "K.Shimohara"
     ],
     "shuangchang": [
         "Shuang Chang"
     ],
     "shusakutsumoto": [
-        "Shusaku Tsumoto"
+    	"’Ã–{üì",
+    	"’Ã–{ üì",
+        "Shusaku Tsumoto",
+        "S. Tsumoto"
     ],
     "shuukatsuakira": [
-        "ü ™¢—º",
-        "ü™¢—º"
-    ],
-    "ssagai": [
-        "S. Sagai"
+        "ü™¢—º",
+        "ü ™¢—º"
     ],
     "suenagakoutaira": [
+        "––‰iV•½",
         "––‰i V•½"
     ],
     "sugawaratoshiharu": [
@@ -1071,20 +1003,24 @@
     "susumuaida": [
         "Susumu Aida"
     ],
-    "suzuki,h": [
-        "Suzuki, H",
-        "SUZUKI, H",
-        "—é–Ø",
+    "suzuki,t": [
         "Suzuki, T"
     ],
     "suzukihideyukisusumu": [
-        "—é–Ø‰p”Vi"
+        "—é–Ø‰p”Vi",
+        "Einoshin Suzuki"
     ],
     "suzukihisatoshi": [
         "—é–Ø‹v•q",
+        "—é–Ø",
+        "Suzuki, H",
+        "SUZUKI, H",
+        "H. Suzuki",
+        "Hisatoshi Suzuki",
         "—é–Ø‹v•q‚Ù‚©"
     ],
     "suzukijunni": [
+        "—é–Ø€“ñ",
         "—é–Ø €“ñ"
     ],
     "suzukikatsuhiro": [
@@ -1094,26 +1030,12 @@
     "t.nishida": [
         "T. Nishida"
     ],
-    "t.yamada": [
-        "T. Yamada"
-    ],
-    "t.yuzawa": [
-        "T.Yuzawa",
-        "T. Yuzawa"
-    ],
-    "taiseimukai": [
-        "Taisei Mukai"
-    ],
-    "takadamakeiju": [
-        "‚‹ÊŒ\÷"
-    ],
     "takadamakotokou": [
-        "‚“c^D"
-    ],
-    "takadamasakou": [
+        "‚“c^D",
         "‚“c‰ëD"
     ],
-    "takagiharuoikanyakuj": [
+    "takagiharuo": [
+        "‚–Ø°•v",
         "‚–Ø°•viŠÄ–ój",
         "‚–Ø"
     ],
@@ -1127,11 +1049,17 @@
         "‚‹´“O",
         "Takahashi, T",
         "Takahashi, T.",
+        "Toru B. Takahashi",
+        "Satoru Takahashi",
+        "Satoru TAKAHASHI",
+        "T. Takahashi",
+        "Toru TAKAHASHI",
+        "Toru Takahashi",
         "‚‹´ “O"
     ],
     "takahashimasakazu": [
-        "‚‹´ ‰ë˜a",
         "‚‹´‰ë˜a",
+        "‚‹´ ‰ë˜a",
         "M. Takahashi",
         "TAKAHASHI, M.",
         "Takahashi, M",
@@ -1141,34 +1069,35 @@
     	"‚‹´³˜a"
     ],
     "takahashihiroshi": [
-        "‚‹´ ‘åu",
         "‚‹´‘åu",
+        "‚‹´ ‘åu",
         "Takahashi, H",
         "H. Takahashi",
         "Hiroshi Takahashi",
-        "Satoshi Takahashi",
         "Hisoshi Takahashi",
         "Hiroshi TAKAHASHI",
         "Hirosi Takahashi"
     ],
     "takahashisatoshi": [
+    	"‚‹´‘",
         "Satoshi Takahashi",
         "Takahashi, S",
         "‚‹´ ‘",
-        "‚‹´‘"
+        "Satoshi Takahashi"
     ],
     "takahashisatoru":[
     	"‚‹´Œå"
     ],
     "takahashitomoyasu": [
-        "‚‹´ •üN",
-        "‚‹´•üN"
+        "‚‹´•üN",
+        "‚‹´ •üN"
     ],
     "takashiishikawa": [
+    	"ÎìF",
         "Takashi Ishikawa",
         "Ishikawa, T"
     ],
-    "takashiyamada": [
+    "takashiokada": [
         "Takashi Okada"
     ],
     "takayasuhideki": [
@@ -1180,12 +1109,10 @@
     "takedahideaki": [
         "•“c‰p–¾"
     ],
-    "takenaka,m": [
-        "Takenaka, M"
-    ],
     "takenakamakotomareko": [
+        "’|’†^Šóq",
         "’|’† ^Šóq",
-        "’|’†^Šóq"
+        "Takenaka, M"
     ],
     "takeshifukuda": [
         "Takeshi Fukuda"
@@ -1194,8 +1121,8 @@
         "Taku Geho"
     ],
     "taniguchinori": [
-        "’JŒû Œ›",
         "’JŒûŒ›",
+        "’JŒû Œ›",
         "Ken Taniguchi",
          "K.Taniguchi"
     ],
@@ -1211,6 +1138,10 @@
         "Takao Terano ed.",
         "›–ì—²—Yi•Ò’˜j",
         "›–ì—²—Yi•ÒE’˜j",
+        "›–ì—²—Y(–ó)",
+        "(›–ì—²—Y–ó)",
+        "›–ì—²—Y(‘¼)",
+        "›–ì—²—Y(ŠÄ–ó)",
         "Terano, Takao, et al.",
         "Terano, T",
         "Terano, T.",
@@ -1221,8 +1152,6 @@
         "Terano , T",
         "Terano,T",
         "T. Terano",
-        "Takao Terano",
-        "Takao TERANO",
         "Takako Terano",
         "TakaoTerano",
         "T. Terano",
@@ -1239,34 +1168,22 @@
         "’¹‹‘å—S"
     ],
     "toriyamamasahiro": [
-        "’¹R³”"
-    ],
-    "torub.takahashi": [
-        "Toru B. Takahashi",
-        "Satoru Takahashi",
-        "Satoru TAKAHASHI",
-        "T. Takahashi",
-        "Toru TAKAHASHI",
-        "Toru Takahashi"
+        "’¹R³”",
+        "Masahiro Toriyama"
     ],
     "toshikazunishimura":[
     	"Toshikazu Nishimura",
     	"T. Nishimura"
     ],
-    "toshikifujino": [
-        "Toshiki Fujino"
-    ],
     "toshikihirano": [
         "Toshiki Hirano"
-    ],
-    "toshiyukinakao": [
-        "Toshiyuki Nakao"
     ],
     "touketsu": [
         "Ÿì^",
         "Ÿì ^"
     ],
     "toyouchijun'ichi": [
+        "–L“à‡ˆê",
         "–L“à ‡ˆê"
     ],
     "trongdungnguyen": [
@@ -1281,9 +1198,6 @@
         "K. Tsuda",
         "’Ã“c"
     ],
-    "tsuhonshuusaku": [
-        "’Ã–{ üì"
-    ],
     "tsung-liehlin": [
         "Tsung-Lieh Lin"
     ],
@@ -1294,14 +1208,14 @@
         "Tzong-Wann Kao"
     ],
     "uchidahikaru": [
-        "“à“c ‰l",
         "“à“c‰l",
+        "“à“c ‰l",
         "Hikaru Uchida",
         "Hikaru UCHIDA"
     ],
     "uminoichinori": [
-        "ŠC–ì ˆê‘¥",
         "ŠC–ìˆê‘¥",
+        "ŠC–ì ˆê‘¥",
         "Kazunori Umino"
     ],
     "unekentatsuo": [
@@ -1312,9 +1226,11 @@
         "Shihan Wang"
     ],
     "washiotakashi": [
+        "˜h”ö—²",
         "˜h”ö —²",
         "Takao Washio",
-        "T. Washio"
+        "T. Washio",
+        "T. Washio (Eds.)"
     ],
     "watanabemasao": [
         "“n•”‰ë’j",
@@ -1330,19 +1246,24 @@
         "Y. Ohsawa"
     ],
     "yamadatakashi": [
-        "R“c —²u",
         "R“c—²u",
+        "R“c —²u",
         "Takashi Yamada",
         "Yamada Takashi",
         "Yamada, T",
-        "Takashi Yamada",
-        "Takashi YAMADA"
+        "Takashi YAMADA",
+        "T. Yamada"
     ],
     "yamaderasatoru": [
         "R›’q",
-        "R› ’q"
+        "R› ’q",
+        "Satoru Yamadera",
+        "Satoru YAMADERA",
+        "S. Yamadera",
+        "Yamadera, S"
     ],
     "yamaguchitakahira": [
+        "RŒû‚•½",
         "RŒû ‚•½",
         "Takahira Yamaguchi"
     ],
@@ -1367,8 +1288,8 @@
         "R–{“N–ç"
     ],
     "yamamototomokazu": [
-        "R–{ ’qˆê",
-        "R–{’qˆê"
+        "R–{’qˆê",
+        "R–{ ’qˆê"
     ],
     "yamashitayasushiou": [
         "R‰º‘×‰›",
@@ -1384,19 +1305,8 @@
         "–î–ì—Y‘å",
         "–î–ì —Y‘å"
     ],
-    "yasuhiharada": [
-        "Yassuhi Harada",
-        "Yasushi HARADA"
-    ],
     "yasuhikomorimoto": [
         "Yasuhiko Morimoto"
-    ],
-    "yasuhironakajima": [
-        "Yasuhiro Nakajima",
-        "Yoshihiro Nakajima"
-    ],
-    "yasuohirooka": [
-        "Yasuo Hirooka"
     ],
     "yibingxiong": [
         "Yibing Xiong"
@@ -1433,9 +1343,6 @@
         "Yoshinaga, K.",
         "K. Yoshinaga"
     ],
-    "yoshinorishiozawa": [
-        "Yoshinori Shiozawa"
-    ],
     "yoshizawasayuri": [
         "‹gàV¬•S‡",
         "‹gàV ¬•S‡",
@@ -1457,27 +1364,21 @@
     "yuikikamiishi": [
         "Yuiki Kamiishi"
     ],
-    "yujikatsumata": [
-        "Yuji Katsumata",
-        "Y.Katsumata"
-    ],
     "yujitanaka": [
+        "“c’†—Sj",
         "Yuji Tanaka",
-        "“c’† —Sj",
-        "“c’†—Sj"
+        "“c’† —Sj"
     ],
-    "yukichiotsuka": [
+    "otsukayukichi": [
+    	"‘å’Ë—Y‹g",
+    	"Otsuka, Y",
         "Yukichi Otsuka"
     ],
-    "yukinaokenjo": [
-        "Yukinao Kenjo"
-    ],
-    "yuyaohkuma": [
-        "Yuya Ohkuma"
-    ],
     "yuzawatarou": [
+        "“’àV‘¾˜Y",
         "“’àV ‘¾˜Y",
-        "“’àV‘¾˜Y"
+        "T.Yuzawa",
+        "T. Yuzawa"
     ],
     "zhanglongchen": [
         "ZhangLong Chen"

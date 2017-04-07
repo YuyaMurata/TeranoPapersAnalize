@@ -16,7 +16,7 @@ conv = kakasi.getConverter()
 
 #Pattern
 r = re.compile(r'^[a-zA-Z&]')
-brank = re.compile(r'\(.+?\)$')
+#brank = re.compile(r'\(.+?\)$')
 period = re.compile(r'.*\.$')
 simbol = re.compile(r'[!-/:-@[-`{-~]')
 space = re.compile(r'\s')
@@ -28,7 +28,7 @@ def japanese(authors):
         if r.match(author):
             continue
 
-        author = brank.sub('', author).strip()
+        #author = brank.sub('', author).strip()
 
         orig = author
         roma = conv.do(author).lower()
@@ -58,7 +58,7 @@ def english(authors):
         if not r.match(author):
             continue
 
-        author = brank.sub('', author).strip()
+        #author = brank.sub('', author).strip()
 
         orig = author
         roma = conv.do(author).lower()
