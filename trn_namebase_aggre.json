@@ -35,11 +35,6 @@
     "ayakoishiyama": [
         "Ayako Ishiyama"
     ],
-    "binjiang": [
-        "Bin Jiang",
-        "Bin JIANG",
-        "Bin, J"
-    ],
     "bitakuseiki": [
         "”ü‘î¬÷"
     ],
@@ -176,6 +171,7 @@
         "Khan,M. B",
         "Muhammad Badruddin Khan",
         "Khan Muhammad Badruddin",
+        "Khandan Hamed",
         "Hamed"
     ],
     "haradayasushisuke": [
@@ -185,6 +181,8 @@
     "haradayasushi":[
     	"Œ´“c‘×",
     	"Yassuhi Harada",
+    	"Yasushi Harada",
+    	"Yasuhi Harada",
         "Yasushi HARADA"
     ],
     "hashimotohirofumi": [
@@ -320,7 +318,10 @@
     ],
     "jiangbin": [
         "Jiang Bin",
-        "Jiang, B"
+        "Jiang, B",
+        "Bin Jiang",
+        "Bin JIANG",
+        "Bin, J"
     ],
     "jieliangzhou": [
         "Jieliang Zhou"
@@ -373,6 +374,7 @@
     "keikitakadama": [
     	"‚‹ÊŒ\÷",
         "Keiki Takadama",
+        "Takadama Keiki",
         "K. Takadama",
         "Takadama",
         "K.Takadama",
@@ -463,6 +465,7 @@
         "Masato Kobayashi",
         "Masato KOBAYASHI",
         "Kobayashi, M,",
+        "Kobayashi, M",
         "M.Kobayashi",
         "M. Kobayashi"
     ],
@@ -672,9 +675,6 @@
     "muro,z.": [
         "Muro, Z."
     ],
-    "n.zhong": [
-        "N. Zhong"
-    ],
     "nabetashigeko": [
         "“ç“c–Îq",
         "Nabeta,S."
@@ -754,7 +754,8 @@
         "Ngoc Binh NGUYEN"
     ],
     "ningzhong": [
-        "Ning Zhong"
+        "Ning Zhong",
+        "N. Zhong"
     ],
     "nishidariakira": [
         "¼“c—˜N",
@@ -1050,14 +1051,12 @@
         "Takahashi, T",
         "Takahashi, T.",
         "Toru B. Takahashi",
-        "Satoru Takahashi",
-        "Satoru TAKAHASHI",
         "T. Takahashi",
         "Toru TAKAHASHI",
         "Toru Takahashi",
         "‚‹´ “O"
     ],
-    "takahashimasakazu": [
+    "takahashimasakazu1": [
         "‚‹´‰ë˜a",
         "‚‹´ ‰ë˜a",
         "M. Takahashi",
@@ -1065,7 +1064,7 @@
         "Takahashi, M",
         "Masakazu Takahashi"
     ],
-    "takahashimasakazu": [
+    "takahashimasakazu2": [
     	"‚‹´³˜a"
     ],
     "takahashihiroshi": [
@@ -1086,7 +1085,9 @@
         "Satoshi Takahashi"
     ],
     "takahashisatoru":[
-    	"‚‹´Œå"
+    	"‚‹´Œå",
+    	"Satoru Takahashi",
+        "Satoru TAKAHASHI"
     ],
     "takahashitomoyasu": [
         "‚‹´•üN",
@@ -1143,6 +1144,7 @@
         "›–ì—²—Y(‘¼)",
         "›–ì—²—Y(ŠÄ–ó)",
         "Terano, Takao, et al.",
+        "Terano, T. et al.",
         "Terano, T",
         "Terano, T.",
         ", Terano, T.",

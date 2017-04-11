@@ -1,5 +1,6 @@
 import json
 import re
+import codecs
 
 from graphobj import GraphObj
 
@@ -53,18 +54,21 @@ def main():
         authors = extractAuthor(paper['author'])
         print(authors)
 
-        #add node and edge Authors All link
-        #for i in range(len(authors)-1):
-        #    for j in range(i+1, len(authors)):
-        #        graph.addObj(authors[i], authors[j])
+        #add node and edge Authors All link. need to change graphobj
+        for i in range(len(authors)-1):
+            for j in range(i+1, len(authors)):
+                graph.addObj(authors[i], authors[j])
 
         # add node and edge Author Sequential Link
-        for i in range(len(authors)-1):
-            graph.addObj(authors[i], authors[i+1])
-
+        #for i in range(len(authors)-1):
+            #in
+            #graph.addObj(authors[i], authors[i + 1])
+            #out
+            #last = len(authors)-1
+            #graph.addObj(authors[last-i], authors[last-(i+1)])
 
     # Graph Data
-    f = open('trn_author_graph.json', 'w')
+    f = codecs.open('json/trn_author_graph.json', 'w', 'utf-8')
     json.dump(graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
     f.close()
 

@@ -1,0 +1,27 @@
+setwd("C:/Users/kaeru/PycharmProjects/PapersToNetworkJSON/r")
+
+install.packages("igraph")
+install.packages("linkcomm")
+install.packages("igraph0")
+install.packages("RColorBrewer")
+
+library(igraph)
+
+fname <- "trn_author_graph_undirect"
+
+g <- read.graph(paste(fname,".gml", sep=""), format="gml")
+
+#ŽŸ”•ª•z
+dd <-degree.distribution(g)
+plot(dd,log="xy")
+#–Þ“x–@ ‹ßŽ—’¼ü
+s <- power.law.fit(degree(g)+1)
+lines(seq(d),seq(d)^((-s$alpha)+1))
+
+g.eb.com<-edge.betweenness.community(g,weights = E(g)$value,directed = F)
+V(g)$color <- g2.eb.com$membership
+
+write_graph(g, paste(fname,"_com.gml", sep=""), "gml")
+size <- degree(g)
+
+plot(g)

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<style>
+
+.links line {
+  stroke: #aaa;
+  stroke-width: 1.5px;
+}
+
+.nodes circle {
+  pointer-events: all;
+  stroke: none;
+  stroke-width: 40px;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+</style>
+
+<script src="js/oboe-browser.min.js"></script>
+<script src="js/d3.v4.min.js"></script>
+
+<body>
+	<h1>ƒeƒXƒg</h1>
+	
+	<form name="form1" id="id_form1" action="">
+    	<select name="graph_select">
+			<option value="graph/trn_author_graph_undirect.json">graph_undirect</option>
+		</select>
+    	<!--<input name="textBox1" id="id_textBox1" type="text" value="" />-->
+    	<input type="button" value="Exec" onclick="onButtonClick();" />
+  	</form>
+  	<hr/>
+  	<div id="output"></div>
+	
+	<svg id='network-visual' width="1000" height="800"></svg>
+	<script src="js/network_visualise.js"></script>
+</body>
