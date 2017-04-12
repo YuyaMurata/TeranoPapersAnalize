@@ -1,4 +1,4 @@
-Creator "igraph version 1.0.1 Tue Apr 11 07:40:44 2017"
+Creator "igraph version 1.0.1 Wed Apr 12 14:16:10 2017"
 Version 1
 graph
 [
@@ -7,7 +7,7 @@ graph
   [
     id 0
     label "ñÓñÏç_êm"
-    color 1
+    color 0
     size 3
   ]
   node
@@ -21,2233 +21,2233 @@ graph
   [
     id 2
     label "éõñÏó≤óY"
-    color 1
+    color 2
     size 320
   ]
   node
   [
     id 3
     label "ç≤ÅXñÿçNç_"
-    color 2
+    color 3
     size 4
   ]
   node
   [
     id 4
     label "ãgêÏå˙"
-    color 2
+    color 4
     size 58
   ]
   node
   [
     id 5
     label "ññâiçVïΩ"
-    color 2
+    color 5
     size 5
   ]
   node
   [
     id 6
     label "î©éRóSãP"
-    color 2
+    color 6
     size 2
   ]
   node
   [
     id 7
     label "ê¬ñÿ åí"
-    color 2
+    color 7
     size 2
   ]
   node
   [
     id 8
     label "çïê£óYëæ"
-    color 1
+    color 8
     size 1
   ]
   node
   [
     id 9
     label "ãeínçÑê≥"
-    color 2
+    color 9
     size 11
   ]
   node
   [
     id 10
     label "ö†è„ê^èÕ"
-    color 2
+    color 10
     size 19
   ]
   node
   [
     id 11
     label "éRìcó≤éu"
-    color 2
+    color 11
     size 63
   ]
   node
   [
     id 12
     label "çÇã¥ëÂéu"
-    color 2
+    color 12
     size 16
   ]
   node
   [
     id 13
     label "äCñÏàÍë•"
-    color 2
+    color 13
     size 5
   ]
   node
   [
     id 14
     label "ñk‡Vê≥é˜"
-    color 2
+    color 14
     size 9
   ]
   node
   [
     id 15
     label "å‹ìáå\àÍ"
-    color 2
+    color 15
     size 2
   ]
   node
   [
     id 16
     label "å¸à‰ëÂêΩ"
-    color 1
+    color 16
     size 1
   ]
   node
   [
     id 17
     label "Chao Yang"
-    color 2
+    color 17
     size 10
   ]
   node
   [
     id 18
     label "Jiang Bin"
-    color 2
+    color 18
     size 10
   ]
   node
   [
     id 19
     label "è¨ñÏå˜"
-    color 3
+    color 19
     size 25
   ]
   node
   [
     id 20
     label "ëqã¥êﬂñÁ"
-    color 4
+    color 20
     size 21
   ]
   node
   [
     id 21
     label "ç]ëêó…ïΩ"
-    color 5
+    color 21
     size 17
   ]
   node
   [
     id 22
     label "ê∂ìcñ⁄î¸ãI"
-    color 5
+    color 22
     size 17
   ]
   node
   [
     id 23
     label "è¨ó—ê≥êl"
-    color 5
+    color 23
     size 21
   ]
   node
   [
     id 24
     label "çaå˚îé"
-    color 5
+    color 24
     size 11
   ]
   node
   [
     id 25
     label "ìÌñ[éq"
-    color 5
+    color 25
     size 33
   ]
   node
   [
     id 26
     label "íÜê£åM"
-    color 5
+    color 26
     size 11
   ]
   node
   [
     id 27
     label "è¨êÏ ã`òa"
-    color 5
+    color 27
     size 11
   ]
   node
   [
     id 28
     label "àÓä_ê¨ìN"
-    color 5
+    color 28
     size 28
   ]
   node
   [
     id 29
     label "Mhd Irvan"
-    color 2
+    color 29
     size 4
   ]
   node
   [
     id 30
     label "ì‡ìcâl"
-    color 2
+    color 30
     size 7
   ]
   node
   [
     id 31
     label "Wang Shihan"
-    color 2
+    color 31
     size 3
   ]
   node
   [
     id 32
     label "ñLì‡èáàÍ"
-    color 1
+    color 32
     size 2
   ]
   node
   [
     id 33
     label "éLìàñŒñ´"
-    color 1
+    color 33
     size 2
   ]
   node
   [
     id 34
     label "çÇã¥ëè"
-    color 2
+    color 34
     size 16
   ]
   node
   [
     id 35
     label "çÇã¥ B. ìO"
-    color 2
+    color 35
     size 30
   ]
   node
   [
     id 36
     label "ê‹ìcñæéq"
-    color 2
+    color 36
     size 7
   ]
   node
   [
     id 37
     label "ç‚ïΩ ï∂îé"
-    color 1
+    color 37
     size 1
   ]
   node
   [
     id 38
     label "è¨ó—ê^"
-    color 5
+    color 38
     size 10
   ]
   node
   [
     id 39
     label "ç‚ìcå∞óf"
-    color 2
+    color 39
     size 6
   ]
   node
   [
     id 40
     label "Mohsen Jafari Songhori"
-    color 2
+    color 40
     size 8
   ]
   node
   [
     id 41
     label "Shinnosuke Hosonuma"
-    color 2
+    color 41
     size 3
   ]
   node
   [
     id 42
     label "Ayako Ishiyama"
-    color 5
+    color 42
     size 6
   ]
   node
   [
     id 43
     label "Keita Muratsu"
-    color 5
+    color 43
     size 5
   ]
   node
   [
     id 44
     label "Jing Su"
-    color 2
+    color 44
     size 4
   ]
   node
   [
     id 45
     label "íπéRê≥îé"
-    color 2
+    color 45
     size 11
   ]
   node
   [
     id 46
     label "ìcíÜóSéj"
-    color 3
+    color 46
     size 10
   ]
   node
   [
     id 47
     label "Susumu Aida"
-    color 3
+    color 47
     size 2
   ]
   node
   [
     id 48
     label "Shuang Chang"
-    color 2
+    color 48
     size 3
   ]
   node
   [
     id 49
     label "ïüñ{ã±"
-    color 1
+    color 49
     size 3
   ]
   node
   [
     id 50
     label "ëÂçïçFï∂"
-    color 5
+    color 50
     size 8
   ]
   node
   [
     id 51
     label "í|íÜê^äÛéq"
-    color 5
+    color 51
     size 8
   ]
   node
   [
     id 52
     label "èMê∂ì˙èoíj"
-    color 5
+    color 52
     size 8
   ]
   node
   [
     id 53
     label "éRñ{íqàÍ"
-    color 5
+    color 53
     size 6
   ]
   node
   [
     id 54
     label "å¥ìcë◊ï„"
-    color 2
+    color 54
     size 5
   ]
   node
   [
     id 55
     label "çÇã¥ï¸çN"
-    color 2
+    color 55
     size 3
   ]
   node
   [
     id 56
     label "çÇã¥âÎòa"
-    color 4
+    color 56
     size 23
   ]
   node
   [
     id 57
     label "é¸ô¢ó∫"
-    color 2
+    color 57
     size 5
   ]
   node
   [
     id 58
     label "Satoru Tokuhisa"
-    color 5
+    color 58
     size 4
   ]
   node
   [
     id 59
     label "Jiacai WANG"
-    color 1
+    color 59
     size 1
   ]
   node
   [
     id 60
     label "ï€â»çOñæ"
-    color 5
+    color 60
     size 10
   ]
   node
   [
     id 61
     label "éRñ{ìNñÁ"
-    color 5
+    color 61
     size 10
   ]
   node
   [
     id 62
     label "Thawiworadilok Chaiwat"
-    color 2
+    color 62
     size 5
   ]
   node
   [
     id 63
     label "Yibing Xiong"
-    color 2
+    color 63
     size 2
   ]
   node
   [
     id 64
     label "è¨éRóFâÓ"
-    color 3
+    color 64
     size 18
   ]
   node
   [
     id 65
     label "Majid Abdi"
-    color 2
+    color 65
     size 2
   ]
   node
   [
     id 66
     label "Jieliang Zhou"
-    color 2
+    color 66
     size 2
   ]
   node
   [
     id 67
     label "ñÓñÏóYëÂ"
-    color 2
+    color 67
     size 5
   ]
   node
   [
     id 68
     label "ê_‡Vìƒå["
-    color 2
+    color 68
     size 5
   ]
   node
   [
     id 69
     label "ñÿìàã±àÍ"
-    color 3
+    color 69
     size 8
   ]
   node
   [
     id 70
     label "èoå˚çO"
-    color 3
+    color 70
     size 41
   ]
   node
   [
     id 71
     label "ìÁìcïêóä"
-    color 2
+    color 71
     size 6
   ]
   node
   [
     id 72
     label "éRñ{äw"
-    color 2
+    color 72
     size 24
   ]
   node
   [
     id 73
     label "ì°ñÏèré˜"
-    color 2
+    color 73
     size 13
   ]
   node
   [
     id 74
     label "âúí√ãKñÓ"
-    color 2
+    color 74
     size 3
   ]
   node
   [
     id 75
     label "üÏû^"
-    color 2
+    color 75
     size 4
   ]
   node
   [
     id 76
     label "ëùìcímè∫"
-    color 2
+    color 76
     size 7
   ]
   node
   [
     id 77
     label "ésêÏäw"
-    color 3
+    color 77
     size 9
   ]
   node
   [
     id 78
     label "Na Chang"
-    color 2
+    color 78
     size 2
   ]
   node
   [
     id 79
     label "è¨ó—ímñ§"
-    color 2
+    color 79
     size 6
   ]
   node
   [
     id 80
     label "Inai, R"
-    color 5
+    color 80
     size 7
   ]
   node
   [
     id 81
     label "ë∫ìcóIñÁ"
-    color 2
+    color 81
     size 5
   ]
   node
   [
     id 82
     label "íÜñÏåíéü"
-    color 2
+    color 82
     size 7
   ]
   node
   [
     id 83
     label "Chathura Rajapakse"
-    color 1
+    color 83
     size 1
   ]
   node
   [
     id 84
     label "ñÿë∫çKïΩ"
-    color 2
+    color 84
     size 4
   ]
   node
   [
     id 85
     label "ëÂñÏï∂ïv"
-    color 4
+    color 85
     size 3
   ]
   node
   [
     id 86
     label "ç‚ïΩï∂îé"
-    color 1
+    color 86
     size 1
   ]
   node
   [
     id 87
     label "ç≤ì°éjèÕ"
-    color 3
+    color 87
     size 10
   ]
   node
   [
     id 88
     label "è¨êºåõé°"
-    color 2
+    color 88
     size 3
   ]
   node
   [
     id 89
     label "Hamed Khandan"
-    color 2
+    color 89
     size 3
   ]
   node
   [
     id 90
     label "Isao Yagi"
-    color 2
+    color 90
     size 2
   ]
   node
   [
     id 91
     label "ãg‡Vè¨ïSçá"
-    color 2
+    color 91
     size 4
   ]
   node
   [
     id 92
     label "êVà‰ñL"
-    color 2
+    color 92
     size 3
   ]
   node
   [
     id 93
     label "âzéRèC"
-    color 2
+    color 93
     size 8
   ]
   node
   [
     id 94
     label "â™ìcóE"
-    color 1
+    color 94
     size 7
   ]
   node
   [
     id 95
     label "âìì°åO"
-    color 1
+    color 95
     size 7
   ]
   node
   [
     id 96
     label "ç≤ì°ìNñÁ"
-    color 1
+    color 96
     size 7
   ]
   node
   [
     id 97
     label "íπäCïsìÒïv"
-    color 1
+    color 97
     size 7
   ]
   node
   [
     id 98
     label "éRñ{êméu"
-    color 1
+    color 98
     size 7
   ]
   node
   [
     id 99
     label "êÖñÏêΩ"
-    color 1
+    color 99
     size 7
   ]
   node
   [
     id 100
     label "ëæìcïqêü"
-    color 1
+    color 100
     size 7
   ]
   node
   [
     id 101
     label "ç≤âÍà‰èdóY"
-    color 1
+    color 101
     size 2
   ]
   node
   [
     id 102
     label "êXíCë•"
-    color 1
+    color 102
     size 6
   ]
   node
   [
     id 103
     label "äpîWã±âõ"
-    color 2
+    color 103
     size 2
   ]
   node
   [
     id 104
     label "ëÂåFóTç∆"
-    color 2
+    color 104
     size 3
   ]
   node
   [
     id 105
     label "Hasnat Elias"
-    color 2
+    color 105
     size 5
   ]
   node
   [
     id 106
     label "ãeìcçÑ"
-    color 2
+    color 106
     size 5
   ]
   node
   [
     id 107
     label "ï∂åíìN"
-    color 2
+    color 107
     size 5
   ]
   node
   [
     id 108
     label "íÜñÏçOàÍ"
-    color 2
+    color 108
     size 2
   ]
   node
   [
     id 109
     label "êôéRÇÕÇÈÇ©"
-    color 5
+    color 109
     size 6
   ]
   node
   [
     id 110
     label "çïìcèGéq"
-    color 5
+    color 110
     size 6
   ]
   node
   [
     id 111
     label "ëÂïΩìNéj"
-    color 1
+    color 111
     size 1
   ]
   node
   [
     id 112
     label "ñxà‰óùçπ"
-    color 3
+    color 112
     size 6
   ]
   node
   [
     id 113
     label "Kenichi Yoshida"
-    color 4
+    color 113
     size 5
   ]
   node
   [
     id 114
     label "í√ìcòaïF"
-    color 4
+    color 114
     size 17
   ]
   node
   [
     id 115
     label "çÇã¥åÂ"
-    color 4
+    color 115
     size 3
   ]
   node
   [
     id 116
     label "Prasanna Rajapakse"
-    color 1
+    color 116
     size 1
   ]
   node
   [
     id 117
     label "I-Hong Kuo"
-    color 6
+    color 117
     size 7
   ]
   node
   [
     id 118
     label "Shi-Jinn Horng"
-    color 6
+    color 118
     size 12
   ]
   node
   [
     id 119
     label "Tzong-Wann Kao"
-    color 6
+    color 119
     size 9
   ]
   node
   [
     id 120
     label "Tsung-Lieh Lin"
-    color 6
+    color 120
     size 7
   ]
   node
   [
     id 121
     label "Cheng-Ling Lee"
-    color 6
+    color 121
     size 9
   ]
   node
   [
     id 122
     label "Yi Pan"
-    color 6
+    color 122
     size 11
   ]
   node
   [
     id 123
     label "Wei-Hung Lin"
-    color 6
+    color 123
     size 6
   ]
   node
   [
     id 124
     label "Rong-Jian Chen"
-    color 6
+    color 124
     size 10
   ]
   node
   [
     id 125
     label "Yuan-Hsin Chen"
-    color 6
+    color 125
     size 12
   ]
   node
   [
     id 126
     label "Ray-Shine Run"
-    color 6
+    color 126
     size 7
   ]
   node
   [
     id 127
     label "Jui-Lin Lai"
-    color 6
+    color 127
     size 7
   ]
   node
   [
     id 128
     label "Wei-Chih Chen"
-    color 6
+    color 128
     size 7
   ]
   node
   [
     id 129
     label "êºìcóùòN"
-    color 2
+    color 129
     size 5
   ]
   node
   [
     id 130
     label "ç≤ñÏê^óù"
-    color 2
+    color 130
     size 4
   ]
   node
   [
     id 131
     label "èºìcè∏"
-    color 2
+    color 131
     size 4
   ]
   node
   [
     id 132
     label "éRâ∫ë◊âõ"
-    color 2
+    color 132
     size 5
   ]
   node
   [
     id 133
     label "óÈñÿãvïq"
-    color 4
+    color 133
     size 11
   ]
   node
   [
     id 134
     label "éRñ{èGíj"
-    color 2
+    color 134
     size 7
   ]
   node
   [
     id 135
     label "í¬èÕó¥"
-    color 2
+    color 135
     size 6
   ]
   node
   [
     id 136
     label "è¨êÏî¸çÅéq"
-    color 2
+    color 136
     size 4
   ]
   node
   [
     id 137
     label "ñxìcëÂï„"
-    color 2
+    color 137
     size 5
   ]
   node
   [
     id 138
     label "Geun Chol Moon"
-    color 2
+    color 138
     size 4
   ]
   node
   [
     id 139
     label "éRéõíq"
-    color 5
+    color 139
     size 4
   ]
   node
   [
     id 140
     label "Keiko Kurahashi"
-    color 2
+    color 140
     size 4
   ]
   node
   [
     id 141
     label "íÜêÏóTéi"
-    color 2
+    color 141
     size 5
   ]
   node
   [
     id 142
     label "ç≤ì°òaäÛ"
-    color 2
+    color 142
     size 4
   ]
   node
   [
     id 143
     label "ä›ñ{óLîV"
-    color 4
+    color 143
     size 8
   ]
   node
   [
     id 144
     label "â°êÏëÂ"
-    color 2
+    color 144
     size 4
   ]
   node
   [
     id 145
     label "èºà‰ì°å‹òY"
-    color 3
+    color 145
     size 2
   ]
   node
   [
     id 146
     label "òaêÚåâ"
-    color 3
+    color 146
     size 7
   ]
   node
   [
     id 147
     label "äõéuìcçW"
-    color 2
+    color 147
     size 4
   ]
   node
   [
     id 148
     label "ZhangLong Chen"
-    color 2
+    color 148
     size 4
   ]
   node
   [
     id 149
     label "êƒì°òañ§"
-    color 1
+    color 149
     size 7
   ]
   node
   [
     id 150
     label "‡_ìcíºäÛ"
-    color 3
+    color 150
     size 4
   ]
   node
   [
     id 151
     label "â™ñ{ê≥çG"
-    color 3
+    color 151
     size 5
   ]
   node
   [
     id 152
     label "ókí¥"
-    color 2
+    color 152
     size 7
   ]
   node
   [
     id 153
     label "íÜîˆèrçs"
-    color 4
+    color 153
     size 7
   ]
   node
   [
     id 154
     label "Masaru Yokokawa"
-    color 4
+    color 154
     size 5
   ]
   node
   [
     id 155
     label "Takayuki Mizuno"
-    color 2
+    color 155
     size 3
   ]
   node
   [
     id 156
     label "Misako Takayasu"
-    color 2
+    color 156
     size 3
   ]
   node
   [
     id 157
     label "óÈñÿçéçO"
-    color 2
+    color 157
     size 2
   ]
   node
   [
     id 158
     label "ëÂíÀóYãg"
-    color 4
+    color 158
     size 4
   ]
   node
   [
     id 159
     label "ãvêÏâÎéu"
-    color 4
+    color 159
     size 3
   ]
   node
   [
     id 160
     label "èºéRâ»éq"
-    color 1
+    color 160
     size 7
   ]
   node
   [
     id 161
     label "ñÿâ∫ìNíj"
-    color 1
+    color 161
     size 7
   ]
   node
   [
     id 162
     label "â°îˆê^"
-    color 1
+    color 162
     size 12
   ]
   node
   [
     id 163
     label "ñkë∫ë◊ïF"
-    color 1
+    color 163
     size 7
   ]
   node
   [
     id 164
     label "êõå¥èré°"
-    color 1
+    color 164
     size 7
   ]
   node
   [
     id 165
     label "êVíJå’èº"
-    color 1
+    color 165
     size 7
   ]
   node
   [
     id 166
     label "ëÂê{âÍè∫ïF"
-    color 1
+    color 166
     size 7
   ]
   node
   [
     id 167
     label "ïıçPåõ"
-    color 1
+    color 167
     size 7
   ]
   node
   [
     id 168
     label "ìnïîâÎíj"
-    color 1
+    color 168
     size 1
   ]
   node
   [
     id 169
     label "êŒìcãú"
-    color 1
+    color 169
     size 8
   ]
   node
   [
     id 170
     label "íπãèëÂóS"
-    color 1
+    color 170
     size 3
   ]
   node
   [
     id 171
     label "ë∫è„ózïΩ"
-    color 1
+    color 171
     size 5
   ]
   node
   [
     id 172
     label "ëÂëÚâpàÍ"
-    color 1
+    color 172
     size 6
   ]
   node
   [
     id 173
     label "êŒíÀñû"
-    color 1
+    color 173
     size 10
   ]
   node
   [
     id 174
     label "ïêìcâpñæ"
-    color 1
+    color 174
     size 6
   ]
   node
   [
     id 175
     label "ñ{à ìcê^àÍ"
-    color 1
+    color 175
     size 6
   ]
   node
   [
     id 176
     label "å©èÈçKíº"
-    color 2
+    color 176
     size 2
   ]
   node
   [
     id 177
     label "óÈñÿèÄìÒ"
-    color 1
+    color 177
     size 3
   ]
   node
   [
     id 178
     label "îíêŒ ìNñÁ"
-    color 1
+    color 178
     size 3
   ]
   node
   [
     id 179
     label "â¡î[ó«é˜"
-    color 1
+    color 179
     size 1
   ]
   node
   [
     id 180
     label "äÏëΩàÍ"
-    color 3
+    color 180
     size 29
   ]
   node
   [
     id 181
     label "â∫ïΩóòòa"
-    color 2
+    color 181
     size 5
   ]
   node
   [
     id 182
     label "çÇã¥ê≥òa"
-    color 1
+    color 182
     size 2
   ]
   node
   [
     id 183
     label "êY‡Vòaïq"
-    color 1
+    color 183
     size 3
   ]
   node
   [
     id 184
     label "é¬ìcóLéj"
-    color 1
+    color 184
     size 3
   ]
   node
   [
     id 185
     label "óÃâ∆î¸ìﬁ"
-    color 1
+    color 185
     size 3
   ]
   node
   [
     id 186
     label "íÜêXã`ãP"
-    color 1
+    color 186
     size 3
   ]
   node
   [
     id 187
     label "å¥ìcë◊"
-    color 5
+    color 187
     size 4
   ]
   node
   [
     id 188
     label "çrà‰ ìƒéq"
-    color 5
+    color 188
     size 3
   ]
   node
   [
     id 189
     label "ë∫è„âpé°"
-    color 1
+    color 189
     size 5
   ]
   node
   [
     id 190
     label "âzêÖèdêb"
-    color 1
+    color 190
     size 3
   ]
   node
   [
     id 191
     label "ó—èÉñÁ"
-    color 1
+    color 191
     size 3
   ]
   node
   [
     id 192
     label "åììcïqîV"
-    color 3
+    color 192
     size 13
   ]
   node
   [
     id 193
     label "Arai, K"
-    color 3
+    color 193
     size 4
   ]
   node
   [
     id 194
     label "Hua Xu"
-    color 2
+    color 194
     size 2
   ]
   node
   [
     id 195
     label "àÓìcê≠ë•"
-    color 1
+    color 195
     size 26
   ]
   node
   [
     id 196
     label "íJå˚åõ"
-    color 4
+    color 196
     size 2
   ]
   node
   [
     id 197
     label "èüñîóEé°"
-    color 4
+    color 197
     size 2
   ]
   node
   [
     id 198
     label "ì‡ì° å´àÍ"
-    color 1
+    color 198
     size 1
   ]
   node
   [
     id 199
     label "íÜìáã`óT"
-    color 3
+    color 199
     size 10
   ]
   node
   [
     id 200
     label "êXíºé˜"
-    color 3
+    color 200
     size 10
   ]
   node
   [
     id 201
     label "ç≤ì°ç_"
-    color 3
+    color 201
     size 16
   ]
   node
   [
     id 202
     label "èºà‰å[îV"
-    color 3
+    color 202
     size 22
   ]
   node
   [
     id 203
     label "çÇã å\é˜"
-    color 7
+    color 203
     size 5
   ]
   node
   [
     id 204
     label "îíà‰çGñæ"
-    color 4
+    color 204
     size 9
   ]
   node
   [
     id 205
     label "Motonari Tanabu"
-    color 4
+    color 205
     size 5
   ]
   node
   [
     id 206
     label "ãvñÏñı"
-    color 4
+    color 206
     size 9
   ]
   node
   [
     id 207
     label "Hideki Kaji"
-    color 5
+    color 207
     size 3
   ]
   node
   [
     id 208
     label "Mihoko Sugimoto"
-    color 5
+    color 208
     size 3
   ]
   node
   [
     id 209
     label "Kazuhisa Taniguchi"
-    color 3
+    color 209
     size 10
   ]
   node
   [
     id 210
     label "âñëÚóRìT"
-    color 3
+    color 210
     size 18
   ]
   node
   [
     id 211
     label "êXêÏñæî¸"
-    color 5
+    color 211
     size 3
   ]
   node
   [
     id 212
     label "Taku Geho"
-    color 1
+    color 212
     size 1
   ]
   node
   [
     id 213
     label "Masayuki Kessoku"
-    color 4
+    color 213
     size 2
   ]
   node
   [
     id 214
     label "Robert Axtell"
-    color 3
+    color 214
     size 9
   ]
   node
   [
     id 215
     label "Kathleen M. Carley"
-    color 3
+    color 215
     size 9
   ]
   node
   [
     id 216
     label "Maksim Tsvetovat"
-    color 3
+    color 216
     size 9
   ]
   node
   [
     id 217
     label "Toshiki Hirano"
-    color 4
+    color 217
     size 3
   ]
   node
   [
     id 218
     label "é‘íJç_àÍ"
-    color 3
+    color 218
     size 15
   ]
   node
   [
     id 219
     label "ìí‡VëæòY"
-    color 3
+    color 219
     size 11
   ]
   node
   [
     id 220
     label "A.Sashima"
-    color 3
+    color 220
     size 10
   ]
   node
   [
     id 221
     label "H.Lee"
-    color 3
+    color 221
     size 9
   ]
   node
   [
     id 222
     label "A. Namatame"
-    color 3
+    color 222
     size 11
   ]
   node
   [
     id 223
     label "Kudo, R"
-    color 1
+    color 223
     size 4
   ]
   node
   [
     id 224
     label "ïx‡VëÒéu"
-    color 3
+    color 224
     size 9
   ]
   node
   [
     id 225
     label "àÓä_êLãg"
-    color 3
+    color 225
     size 9
   ]
   node
   [
     id 226
     label "ìíêÛèGíj"
-    color 3
+    color 226
     size 9
   ]
   node
   [
     id 227
     label "èºñÿë•ïv"
-    color 3
+    color 227
     size 9
   ]
   node
   [
     id 228
     label "‡Vìcç_îV"
-    color 3
+    color 228
     size 9
   ]
   node
   [
     id 229
     label "è¨å˚óTéi"
-    color 3
+    color 229
     size 9
   ]
   node
   [
     id 230
     label "ëÂã¥èrïv"
-    color 3
+    color 230
     size 9
   ]
   node
   [
     id 231
     label "ã¥âYåbî¸"
-    color 1
+    color 231
     size 1
   ]
   node
   [
     id 232
     label "íJâ™ì˙èoíj"
-    color 1
+    color 232
     size 1
   ]
   node
   [
     id 233
     label "âÕçá(ìcè„)ê[ê·"
-    color 1
+    color 233
     size 1
   ]
   node
   [
     id 234
     label "â∫å¥èüåõ"
-    color 7
+    color 234
     size 4
   ]
   node
   [
     id 235
     label "Y. Shinozawa"
-    color 3
+    color 235
     size 6
   ]
   node
   [
     id 236
     label "ã¥ñ{èdé°"
-    color 3
+    color 236
     size 8
   ]
   node
   [
     id 237
     label "T. Nishida"
-    color 1
+    color 237
     size 5
   ]
   node
   [
     id 238
     label "í√ñ{é¸çÏ"
-    color 1
+    color 238
     size 30
   ]
   node
   [
     id 239
     label "Y. Ohsawa"
-    color 1
+    color 239
     size 5
   ]
   node
   [
     id 240
     label "òhîˆó≤"
-    color 1
+    color 240
     size 30
   ]
   node
   [
     id 241
     label "ñxç_àÍ"
-    color 7
+    color 241
     size 4
   ]
   node
   [
     id 242
     label "íÜê{âÍê^àÍ"
-    color 7
+    color 242
     size 4
   ]
   node
   [
     id 243
     label "êhìáè∫íj"
-    color 3
+    color 243
     size 7
   ]
   node
   [
     id 244
     label "âÕñÏêméu"
-    color 1
+    color 244
     size 1
   ]
   node
   [
     id 245
     label "îíêÏãMãv"
-    color 1
+    color 245
     size 1
   ]
   node
   [
     id 246
     label "çÇìcê^çD"
-    color 1
+    color 246
     size 1
   ]
   node
   [
     id 247
     label "éRå˚çÇïΩ"
-    color 1
+    color 247
     size 27
   ]
   node
   [
     id 248
     label "å≥ìcç_"
-    color 1
+    color 248
     size 27
   ]
   node
   [
     id 249
     label "Cindy Yoshiko Shirata"
-    color 1
+    color 249
     size 1
   ]
   node
   [
     id 250
     label "êŒêÏçF"
-    color 1
+    color 250
     size 3
   ]
   node
   [
     id 251
     label "è¿îˆê≥çs"
-    color 1
+    color 251
     size 7
   ]
   node
   [
     id 252
     label "êŒêÏë◊éu"
-    color 1
+    color 252
     size 1
   ]
   node
   [
     id 253
     label "çLâ™çNóY"
-    color 4
+    color 253
     size 2
   ]
   node
   [
     id 254
     label "èºå¥êm"
-    color 3
+    color 254
     size 10
   ]
   node
   [
     id 255
     label "Hiroshi Hatakama"
-    color 1
+    color 255
     size 1
   ]
   node
   [
     id 256
     label "Huan Liu"
-    color 1
+    color 256
     size 2
   ]
   node
   [
     id 257
     label "Arbee L. P. Chen"
-    color 1
+    color 257
     size 2
   ]
   node
   [
     id 258
     label "Toshikazu Nishimura"
-    color 1
+    color 258
     size 3
   ]
   node
   [
     id 259
     label "êŒñÏóméq"
-    color 1
+    color 259
     size 7
   ]
   node
   [
     id 260
     label "ïHéRóÊéq"
-    color 1
+    color 260
     size 1
   ]
   node
   [
     id 261
     label "çÇñÿâpçs"
-    color 1
+    color 261
     size 2
   ]
   node
   [
     id 262
     label "ê§å©íBïv"
-    color 1
+    color 262
     size 2
   ]
   node
   [
     id 263
     label "ì°êXóméu"
-    color 4
+    color 263
     size 8
   ]
   node
   [
     id 264
     label "çÇà¿èGé˜"
-    color 3
+    color 264
     size 6
   ]
   node
   [
     id 265
     label "óÈñÿâpîVêi"
-    color 1
+    color 265
     size 26
   ]
   node
   [
     id 266
     label "î¶äôîé"
-    color 1
+    color 266
     size 1
   ]
   node
   [
     id 267
     label "î¸ëÓê¨é˜"
-    color 1
+    color 267
     size 2
   ]
   node
   [
     id 268
     label "âzéƒäGó¢"
-    color 1
+    color 268
     size 1
   ]
   node
   [
     id 269
     label "Yoshinaga, K."
-    color 1
+    color 269
     size 3
   ]
   node
   [
     id 270
     label "Ning Zhong"
-    color 1
+    color 270
     size 27
   ]
   node
   [
     id 271
     label "ìÏí™"
-    color 4
+    color 271
     size 2
   ]
   node
   [
     id 272
     label "K. Himura"
-    color 1
+    color 272
     size 1
   ]
   node
   [
     id 273
     label "NISHIO, C"
-    color 4
+    color 273
     size 7
   ]
   node
   [
     id 274
     label "OGURA, N"
-    color 4
+    color 274
     size 7
   ]
   node
   [
     id 275
     label "Ayahiko Niimi"
-    color 1
+    color 275
     size 26
   ]
   node
   [
     id 276
     label "Eiichiro Tazaki"
-    color 1
+    color 276
     size 26
   ]
   node
   [
     id 277
     label "Naoya Negishi"
-    color 1
+    color 277
     size 26
   ]
   node
   [
     id 278
     label "Akihiro Suyama"
-    color 1
+    color 278
     size 26
   ]
   node
   [
     id 279
     label "Yoshiaki Tachibana"
-    color 1
+    color 279
     size 26
   ]
   node
   [
     id 280
     label "Ju-Zhen Dong"
-    color 1
+    color 280
     size 26
   ]
   node
   [
     id 281
     label "Setsuo Ohsuga"
-    color 1
+    color 281
     size 26
   ]
   node
   [
     id 282
     label "Yuiki Kamiishi"
-    color 1
+    color 282
     size 26
   ]
   node
   [
     id 283
     label "Shinsuke Sugaya"
-    color 1
+    color 283
     size 26
   ]
   node
   [
     id 284
     label "Makoto Tsukada"
-    color 1
+    color 284
     size 26
   ]
   node
   [
     id 285
     label "Akihiro Inoguchi"
-    color 1
+    color 285
     size 26
   ]
   node
   [
     id 286
     label "Takeshi Fukuda"
-    color 1
+    color 286
     size 26
   ]
   node
   [
     id 287
     label "Yasuhiko Morimoto"
-    color 1
+    color 287
     size 26
   ]
   node
   [
     id 288
     label "Hiroshi Matsuzawa"
-    color 1
+    color 288
     size 26
   ]
   node
   [
     id 289
     label "Takashi Okada"
-    color 1
+    color 289
     size 26
   ]
   node
   [
     id 290
     label "Mayumi Oyama"
-    color 1
+    color 290
     size 26
   ]
   node
   [
     id 291
     label "Tu Bao HO"
-    color 1
+    color 291
     size 26
   ]
   node
   [
     id 292
     label "Trong Dung NGUYEN"
-    color 1
+    color 292
     size 26
   ]
   node
   [
     id 293
     label "Ngoc Binh NGUYEN"
-    color 1
+    color 293
     size 26
   ]
   node
   [
     id 294
     label "çÇñÿê∞ïv"
-    color 3
+    color 294
     size 3
   ]
   node
   [
     id 295
     label "ñÏë∫èÕ"
-    color 1
+    color 295
     size 1
   ]
   node
   [
     id 296
     label "ãgë∫çGîV"
-    color 1
+    color 296
     size 7
   ]
   node
   [
     id 297
     label "â™âƒé˜"
-    color 1
+    color 297
     size 5
   ]
   node
   [
     id 298
     label "ìÁìcñŒéq"
-    color 1
+    color 298
     size 1
   ]
   node
   [
     id 299
     label "íÜêÏóTéu"
-    color 1
+    color 299
     size 5
   ]
   node
   [
     id 300
     label "åIéRåí"
-    color 1
+    color 300
     size 2
   ]
   node
   [
     id 301
     label "ïΩñÏçWé°"
-    color 1
+    color 301
     size 1
   ]
   node
   [
     id 302
     label "Aiba, H"
-    color 1
+    color 302
     size 1
   ]
   node
   [
     id 303
     label "Satoru Oikawa"
-    color 1
+    color 303
     size 1
   ]
   node
   [
     id 304
     label "é¬å¥ñıéu"
-    color 8
+    color 304
     size 4
   ]
   node
   [
     id 305
     label "Yoshinaga, Y."
-    color 1
+    color 305
     size 2
   ]
   node
   [
     id 306
     label "Ono, S"
-    color 5
+    color 306
     size 3
   ]
   node
   [
     id 307
     label "Cho, D."
-    color 5
+    color 307
     size 3
   ]
   node
   [
     id 308
     label "Muro, Z."
-    color 1
+    color 308
     size 1
   ]
   node
   [
     id 309
     label "è¨ó—èdêM"
-    color 1
+    color 309
     size 2
   ]
   node
   [
     id 310
     label "Suzuki, T"
-    color 1
+    color 310
     size 4
   ]
   node
   [
     id 311
     label "Ikami, K"
-    color 1
+    color 311
     size 4
   ]
   node
   [
     id 312
     label "Iida, K"
-    color 1
+    color 312
     size 4
   ]
   node
   [
     id 313
     label "èºà‰ê≥àÍ"
-    color 8
+    color 313
     size 5
   ]
   node
   [
     id 314
     label "íÜë∫èGé°"
-    color 8
+    color 314
     size 7
   ]
   node
   [
     id 315
     label "Yamamoto, K."
-    color 8
+    color 315
     size 3
   ]
   node
   [
     id 316
     label "îíñÿçPóY"
-    color 8
+    color 316
     size 3
   ]
   node
   [
     id 317
     label "åIå¥êÁíﬂéq"
-    color 8
+    color 317
     size 3
   ]
   node
   [
     id 318
     label "ó—çO"
-    color 3
+    color 318
     size 4
   ]
   node
   [
     id 319
     label "ïΩâÍè˜"
-    color 3
+    color 319
     size 4
   ]
   node
   [
     id 320
     label "èºâYê^àÍ"
-    color 8
+    color 320
     size 4
   ]
   edge

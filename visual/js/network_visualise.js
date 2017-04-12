@@ -1,5 +1,6 @@
 function onButtonClick() {
 	jsonData = document.forms.id_form1.graph_select.value;
+	label_size = document.forms.id_form1.label_size.value;
 	
 	d3.selectAll("svg > g").remove()
 	var sizeScale = d3.scaleLinear().domain([1, 320]).range([5, 40]);
@@ -27,6 +28,7 @@ function onButtonClick() {
 	//	if (error) throw error;
 	
 	console.log(jsonData)
+	console.log(label_size)
 
 	oboe(jsonData).node('*', function(graph) {
 		
@@ -64,7 +66,7 @@ function onButtonClick() {
 					.style("text-anchor", "middle")
 					.style("fill", "#555")
 					.style("font-family", "Arial")
-					.style("font-size", 4);
+					.style("font-size", label_size);
 
 		simulation
 			.nodes(graph.nodes)

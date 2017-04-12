@@ -27,12 +27,12 @@
 
 	<form name="form1" id="id_form1" action="">
     	<select name="graph_select">
-			<option value="graph/trn_author_graph_undirect.json">graph_undirect</option>
-			<option value="graph/trn_author_graph_seq_out.json">graph_seq_direct</option>
-			<option value="graph/trn_author_graph_seq_out_direct_pagerank.json">graph_seq_direct_pagerank</option>
-			<option value="graph/trn_author_graph_undirect_edgebetweenes_com.json">graph_edgebetweenes_undirect</option>
-			<option value="graph/trn_author_graph_undirect_fastgreedy_com.json">graph_fastgreedy_undirect</option>
+			<option value="graph/trn_author_graph_undirect.json">共著者ネットワーク</option>
+			<option value="graph/trn_author_graph_undirect_degree.json">次数_共著者ネットワーク</option>
+			<option value="graph/trn_author_graph_undirect_edgebetweenes_com.json">コミュニティ抽出(Girvan-Newman)</option>
+			<option value="graph/trn_author_graph_undirect_fastgreedy_com.json">コミュニティ抽出(Fastgreedy)</option>
 		</select>
+		Label_Size:<input type="number" name="label_size" value="4" style="width:50px;">
     	<input type="button" value="Exec" onclick="onButtonClick();" />
   	</form>
   	

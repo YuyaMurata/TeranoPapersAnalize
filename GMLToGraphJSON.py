@@ -1,8 +1,9 @@
 import json
 import codecs
+
 from graphobj import GraphObj
 
-fileName = "trn_author_graph_undirect_com_size"
+fileName = "trn_author_graph_undirect_degree"
 
 def main():
     #GML

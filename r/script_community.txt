@@ -1,4 +1,5 @@
 setwd("C:/Users/kaeru/PycharmProjects/PapersToNetworkJSON/r")
+setwd("C:/Users/—I–ç/PycharmProjects/TeranoPapersAnalize/r")
 
 install.packages("igraph")
 install.packages("linkcomm")
@@ -7,21 +8,37 @@ install.packages("RColorBrewer")
 
 library(igraph)
 
-fname <- "trn_author_graph_undirect"
+fname <- "gml/trn_author_graph_undirect"
 
 g <- read.graph(paste(fname,".gml", sep=""), format="gml")
 
 #ŽŸ”•ª•z
 dd <-degree.distribution(g)
 plot(dd,log="xy")
+V(g)$size <- degree(g)
+
 #–Þ“x–@ ‹ßŽ—’¼ü
 s <- power.law.fit(degree(g)+1)
 lines(seq(d),seq(d)^((-s$alpha)+1))
 
+#Newman-Gir
 g.eb.com<-edge.betweenness.community(g,weights = E(g)$value,directed = F)
-V(g)$color <- g2.eb.com$membership
-
-write_graph(g, paste(fname,"_com.gml", sep=""), "gml")
-size <- degree(g)
-
+V(g)$color <- g.eb.com$membership
 plot(g)
+write_graph(g, paste(fname,"_edgebetweenes_com.gml", sep=""), "gml")
+
+#Ž÷Œ`}
+dend <- as.dendrogram(g.eb.com)
+plot(dend)
+
+g.fg.com <- fastgreedy.community(g, weights = E(g)$value)
+V(g)$color <- g.fg.com$membership
+write_graph(g, paste(fname,"_fastgreedy_com.gml", sep=""), "gml")
+
+
+#Direct Network
+fdname <- "gml/trn_author_graph_seq_out"
+gd <- read.graph(paste(fname,".gml", sep=""), format="gml")
+gd.pr <- page.rank(gd,directed=T)
+V(gd)$size <- ceiling(gd.pr$vector*200)
+write_graph(gd, paste(fdname,"_direct_pagerank.gml", sep=""), "gml")

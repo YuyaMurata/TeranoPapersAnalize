@@ -1,6 +1,7 @@
 import json
+import codecs
 
-fileName = "trn_author_graph_undirect"
+fileName = "trn_author_graph_seq_out"
 
 def nodes(data):
     node = ""
@@ -31,7 +32,7 @@ def edges(data):
 
 def main():
     #JSON Data
-    f = open("json/"+fileName+".json", 'r')
+    f = codecs.open("json/"+fileName+".json", 'r', "utf-8")
     gjson = json.load(f)
     f.close()
 
