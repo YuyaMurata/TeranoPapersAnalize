@@ -38,7 +38,7 @@ write_graph(g, paste(fname,"_fastgreedy_com.gml", sep=""), "gml")
 
 #Direct Network
 fdname <- "gml/trn_author_graph_seq_out"
-gd <- read.graph(paste(fname,".gml", sep=""), format="gml")
+gd <- read.graph(paste(fdname,".gml", sep=""), format="gml")
 gd.pr <- page.rank(gd,directed=T)
 V(gd)$size <- ceiling(gd.pr$vector*200)
 write_graph(gd, paste(fdname,"_direct_pagerank.gml", sep=""), "gml")
