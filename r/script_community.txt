@@ -1,14 +1,14 @@
-setwd("C:/Users/kaeru/PycharmProjects/PapersToNetworkJSON/r")
-setwd("C:/Users/—I–ç/PycharmProjects/TeranoPapersAnalize/r")
-
 install.packages("igraph")
 install.packages("linkcomm")
 install.packages("igraph0")
 install.packages("RColorBrewer")
 
+setwd("C:/Users/kaeru/PycharmProjects/PapersToNetworkJSON/r")
+setwd("C:/Users/—I–ç/PycharmProjects/TeranoPapersAnalize/r")
+
 library(igraph)
 
-fname <- "gml/trn_author_graph_undirect"
+fname <- "gml/trn_author_undirect_graph"
 
 g <- read.graph(paste(fname,".gml", sep=""), format="gml")
 

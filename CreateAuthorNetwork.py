@@ -62,7 +62,8 @@ def main():
     fpaper.close()
 
     undirect_graph = GraphObj()
-    direct_graph = GraphObj()
+    direct_ingraph = GraphObj()
+    direct_outgraph = GraphObj()
 
     for paper in jsonData:
         authors = extractAuthor(paper['author'])
@@ -72,17 +73,24 @@ def main():
         undirect(authors, undirect_graph)
 
         # add node and edge Author Sequential Link
-        direct(authors, direct_graph, 'in')
+        direct(authors, direct_ingraph, 'in')
 
+        # add node and edge Author Sequential Link
+        direct(authors, direct_outgraph, 'in')
 
     # Undirect Graph Data
-    f = codecs.open('json/trn_author_undirectgraph.json', 'w', 'utf-8')
+    f = codecs.open('json/trn_author_undirect_graph.json', 'w', 'utf-8')
     json.dump(undirect_graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
     f.close()
 
     # Direct Graph Data
-    f = codecs.open('json/trn_author_directgraph.json', 'w', 'utf-8')
-    json.dump(direct_graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+    f = codecs.open('json/trn_author_direct_ingraph.json', 'w', 'utf-8')
+    json.dump(direct_ingraph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+    f.close()
+
+    # Direct Graph Data
+    f = codecs.open('json/trn_author_direct_outgraph.json', 'w', 'utf-8')
+    json.dump(direct_outgraph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
     f.close()
 
 if __name__ == '__main__':

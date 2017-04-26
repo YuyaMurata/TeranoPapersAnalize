@@ -27,7 +27,7 @@ class GraphObj:
 
         self.links.append({"source":src_id, "target":trg_id, "value":value})
 
-    def addBidEdge(self, source, target):
+    def __addBidEdge(self, source, target):
         value = 1
         src_id = self.id_dict[source]
         trg_id = self.id_dict[target]

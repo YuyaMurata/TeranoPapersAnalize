@@ -1,7 +1,7 @@
 import json
 import codecs
 
-fileName = "trn_author_graph_seq_out"
+fileName = "trn_author_undirect_graph"
 
 def nodes(data):
     node = ""
