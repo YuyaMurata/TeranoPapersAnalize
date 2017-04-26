@@ -25,13 +25,26 @@ class GraphObj:
                 self.links[self.links.index(edge)] = {"source":src_id, "target":trg_id, "value":value}
                 return
 
-            #Undirect
+        self.links.append({"source":src_id, "target":trg_id, "value":value})
+
+    def addBidEdge(self, source, target):
+        value = 1
+        src_id = self.id_dict[source]
+        trg_id = self.id_dict[target]
+
+        for edge in self.links:
+            if ((src_id == edge["source"]) and (trg_id == edge["target"])):
+                value = edge["value"] + 1
+                self.links[self.links.index(edge)] = {"source": src_id, "target": trg_id, "value": value}
+                return
+
+            # Undirect
             if ((src_id == edge["target"]) and (trg_id == edge["source"])):
                 value = edge["value"] + 1
                 self.links[self.links.index(edge)] = {"source": trg_id, "target": src_id, "value": value}
                 return
 
-        self.links.append({"source":src_id, "target":trg_id, "value":value})
+        self.links.append({"source": src_id, "target": trg_id, "value": value})
 
     def addNode(self, id, label, group, size):
         for node in self.nodes:
@@ -42,10 +55,15 @@ class GraphObj:
     def addEdge(self, source, target, value):
         self.links.append({"source": source, "target": target, "value": value})
 
-    def addObj(self, source, target):
+    def addDirectObj(self, source, target):
         self.__addNode(source)
         self.__addNode(target)
         self.__addEdge(source, target)
+
+    def addUndirectObj(self, source, target):
+        self.__addNode(source)
+        self.__addNode(target)
+        self.__addBidEdge(source, target)
 
     def toDictionary(self):
         dict = {"nodes":self.nodes, "links":self.links}

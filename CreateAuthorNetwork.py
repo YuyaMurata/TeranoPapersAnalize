@@ -42,34 +42,47 @@ def extractAuthor(str):
 
     return authors
 
+def undirect(authors, graph):
+    for i in range(len(authors) - 1):
+        for j in range(i + 1, len(authors)):
+            graph.addUndirectObj(authors[i], authors[j])
+
+def direct(authors, graph, inout):
+    for i in range(len(authors)-1):
+        if 'in' in inout:
+            graph.addDirectObj(authors[i], authors[i + 1])
+        elif 'out' in inout:
+            last = len(authors)-1
+            graph.addDirectObj(authors[last-i], authors[last-(i+1)])
+
 def main():
     #Paper Data
     fpaper = open('trn_papers.json', 'r')
     jsonData = json.load(fpaper)
     fpaper.close()
 
-    graph = GraphObj()
+    undirect_graph = GraphObj()
+    direct_graph = GraphObj()
 
     for paper in jsonData:
         authors = extractAuthor(paper['author'])
         print(authors)
 
         #add node and edge Authors All link. need to change graphobj
-        for i in range(len(authors)-1):
-            for j in range(i+1, len(authors)):
-                graph.addObj(authors[i], authors[j])
+        undirect(authors, undirect_graph)
 
         # add node and edge Author Sequential Link
-        #for i in range(len(authors)-1):
-            #in
-            #graph.addObj(authors[i], authors[i + 1])
-            #out
-            #last = len(authors)-1
-            #graph.addObj(authors[last-i], authors[last-(i+1)])
+        direct(authors, direct_graph, 'in')
 
-    # Graph Data
-    f = codecs.open('json/trn_author_graph.json', 'w', 'utf-8')
-    json.dump(graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+
+    # Undirect Graph Data
+    f = codecs.open('json/trn_author_undirectgraph.json', 'w', 'utf-8')
+    json.dump(undirect_graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+    f.close()
+
+    # Direct Graph Data
+    f = codecs.open('json/trn_author_directgraph.json', 'w', 'utf-8')
+    json.dump(direct_graph.toDictionary(), f, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
     f.close()
 
 if __name__ == '__main__':
